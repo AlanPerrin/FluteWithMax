@@ -15,7 +15,7 @@ let blue;
 
 
 function setup() {
-    createCanvas(1280, 720);
+    createCanvas(768, 432);
 
     cols = floor(width / scl);
     rows = floor(height / scl);
